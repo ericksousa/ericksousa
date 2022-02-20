@@ -18,10 +18,12 @@ Me chamo Erick Sousa e sou desenvolvedor web _(fullstack)_, com mais de 9 anos d
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-## 🤓Tecnologias que pretendo dominar
+## 🤓 Tecnologias que pretendo dominar
 <div>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-E34F26?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB">
 </div>
 
 ## ⚡ Algumas estatísticas
