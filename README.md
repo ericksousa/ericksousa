@@ -26,6 +26,6 @@ Me chamo Erick Sousa e sou desenvolvedor web _(fullstack)_, com mais de 9 anos d
 
 ## ⚡ Algumas estatísticas
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericksousa&count_private=true&show_icons=true&theme=chartreuse-dark" height="195" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ericksousa&count_private=true&show_icons=true&theme=chartreuse-dark" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=chartreuse-dark" height="195" />
 </div>
