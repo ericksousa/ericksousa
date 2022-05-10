@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Me chamo Erick Sousa e sou desenvolvedor web _(fullstack)_, com mais de 9 anos de experiência no mercado. Sou formado em Sistemas de Informação e atualmente trabalho na **TV MIRANTE**, afiliada Rede Globo no Maranhão.
+Me chamo Erick Sousa e sou desenvolvedor web _(fullstack)_, com mais de 8 anos de experiência no mercado. Sou formado em Sistemas de Informação e atualmente trabalho na **TV MIRANTE**, afiliada Rede Globo no Maranhão.
 
 ## 👨‍💻 Tecnologias que mais utilizo atualmente
 <div>
