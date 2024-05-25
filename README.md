@@ -24,10 +24,11 @@ Me chamo Erick Sousa e sou desenvolvedor fullstack, com mais de 10 anos de exper
 
 ## 🤓 Tecnologias que pretendo dominar
 <div>
+  <img src="https://img.shields.io/badge/Nuxt.js-20232A?style=for-the-badge&logo=nuxt.js&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Nuxt.js-20232A?style=for-the-badge&logo=nuxt.js&logoColor=61DAFB">
 </div>
 
 ## ⚡ Algumas estatísticas
